@@ -1,4 +1,4 @@
-# Deep Learning Model for [Specific Task]
+# Deep Learning Model for Cancel cell Classification
 
 This repository contains code for a deep learning model that achieves **98.2% accuracy** in [specific task, e.g., image classification, text analysis, etc.]. The model leverages [list of technologies, e.g., TensorFlow, Keras, PyTorch, etc.] and is designed for [brief description of the purpose, e.g., classifying cancer cell images, sentiment analysis, etc.].
 
